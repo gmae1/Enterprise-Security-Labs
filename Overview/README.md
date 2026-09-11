@@ -31,3 +31,6 @@ The core virtual enterprise environment has been deployed and network connectivi
 ### Network Topology
 
 <img width="693" height="850" alt="Screenshot 2026-09-11 115134" src="https://github.com/user-attachments/assets/ad281958-a90d-4ee5-a42f-030772739c07" />
+
+<img width="1919" height="1031" alt="Screenshot 2026-09-11 121301" src="https://github.com/user-attachments/assets/5859dcd2-4207-4d2a-b113-be674a77aea9" />
+
