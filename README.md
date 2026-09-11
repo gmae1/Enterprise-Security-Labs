@@ -29,3 +29,7 @@ The lab uses pfSense as the central router, firewall, DHCP server, and NAT gatew
 **Phase 0 — Infrastructure Deployment: Complete ✅**
 
 The core virtual enterprise environment has been deployed and network connectivity between systems has been validated.
+
+
+### Network Topology
+<img width="595" height="912" alt="Screenshot 2026-09-11 115409" src="https://github.com/user-attachments/assets/76ca41d4-8741-4723-b8bb-2a3657e364b8" />
